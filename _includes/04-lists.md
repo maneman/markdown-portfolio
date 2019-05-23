@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1 mantı
+2 kızartma
+3 dolma
