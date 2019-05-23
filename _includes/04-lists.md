@@ -1,3 +1,3 @@
-1 mantı
-2 kızartma
-3 dolma
+1. mantı
+2. kızartma
+3. dolma
